@@ -1,0 +1,50 @@
+{
+    "version": "2024.12.31.1",
+    "debug": false,
+    "host": "0.0.0.0",
+    "port": 9010,
+    "secret": "",
+    "status_list": [
+        {
+            "id": 0,
+            "name": "nullptr",
+            "desc": "Segmentation Fault!",
+            "color": "awake"
+        },
+        {
+            "id": 1,
+            "name": "zzz~~",
+            "desc": "明天见！",
+            "color": "sleeping"
+        },
+        {
+            "id": 2,
+            "name": "学习哦",
+            "desc": "赶作业捏",
+            "color": "learning"
+        },
+        {
+            "id": 3,
+            "name": "玩！",
+            "desc": "喵喵喵",
+            "color": "wandering"
+        },
+        {
+            "id": 4,
+            "name": "写东西",
+            "desc": "也许可以找找xtex的git提交？",
+            "color": "coding"
+        }
+    ],
+    "refresh": 5000,
+    "data_check_interval": 30,
+    "other": {
+        "user": "~xtex",
+        "background": "https://imgapi.siiway.top/image",
+        "alpha": 0.85,
+        "learn_more": "~xtex",
+        "repo": "https://k.xtexx.eu.org/w/User:Xtex",
+        "more_text": "",
+        "device_status_slice": 30
+    }
+}
